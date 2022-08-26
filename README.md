@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ra-rownok" alt="ra-rownok" /></a> </p>
 
-- 📫 How to reach me **reshadahamedr001@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bRIiOA_PHQjvtiz2qp5hWwZYQ6l7AGBd/view?usp=sharing](https://drive.google.com/file/d/1bRIiOA_PHQjvtiz2qp5hWwZYQ6l7AGBd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
