@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rownok</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ra-rownok" alt="ra-rownok" /></a> </p>
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bRIiOA_PHQjvtiz2qp5hWwZYQ6l7AGBd/view?usp=sharing](https://drive.google.com/file/d/1bRIiOA_PHQjvtiz2qp5hWwZYQ6l7AGBd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
