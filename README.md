@@ -13,7 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ra-rownok&show_icons=true&locale=en&layout=compact" alt="ra-rownok" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ra-rownok&show_icons=true&locale=en" alt="ra-rownok" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ra-rownok&" alt="ra-rownok" /></p>
 
